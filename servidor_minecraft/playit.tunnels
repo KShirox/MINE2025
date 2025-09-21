@@ -1,6 +1,6 @@
 {
   "tcp_alloc": {
-    "allowed": 6,
+    "allowed": 4,
     "claimed": 1,
     "desired": 1
   },
@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "owners-nobody.gl.joinmc.link",
-          "assigned_srv": "owners-nobody.gl.joinmc.link",
+          "assigned_domain": "steel-excel.gl.joinmc.link",
+          "assigned_srv": "steel-excel.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "f1b9ff16-a6eb-42bd-80c1-0742799c4504",
-          "ip_hostname": "30.ip.gl.ply.gg",
+          "id": "e44a74ce-a7af-412f-9e12-78c5947a9abb",
+          "ip_hostname": "211.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 44032,
-          "port_start": 44031,
+          "port_end": 28856,
+          "port_start": 28855,
           "region": "global",
-          "static_ip4": "147.185.221.30",
-          "static_ip6": "2602:fbaf:0:1::1e",
-          "tunnel_ip": "2602:fbaf:0:1::1e"
+          "static_ip4": "147.185.221.211",
+          "static_ip6": "2602:fbaf:0:1::d3",
+          "tunnel_ip": "147.185.221.211"
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-31T00:44:09.360638Z",
+      "created_at": "2025-09-21T02:45:06.509988Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "786c6738-d6b8-475c-a353-c4c97a8ca250",
+      "id": "e95df349-32e0-4b1c-9fe2-2a5752493bfe",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "905d9fed-a9fa-4263-b7ff-ab946bf37c14",
-          "agent_name": "from-key-1345",
+          "agent_id": "abe9ec8a-0c34-48ce-a9c9-69fb3dc300a1",
+          "agent_name": "from-key-aa5f",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -54,7 +54,7 @@
     }
   ],
   "udp_alloc": {
-    "allowed": 6,
+    "allowed": 4,
     "claimed": 0,
     "desired": 0
   }

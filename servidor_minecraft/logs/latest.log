@@ -1,209 +1,98 @@
-[02:47:44] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[02:47:44] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 17
-	- minecraft 1.20.1
-[02:47:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MINE2025/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:47:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:47:54] [main/WARN]: Missing data pack mod:forge
-[02:47:56] [main/INFO]: Loaded 7 recipes
-[02:47:56] [main/INFO]: Loaded 1271 advancements
-[02:47:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:47:57] [Server thread/INFO]: Loading properties
-[02:47:57] [Server thread/INFO]: Default game type: SURVIVAL
-[02:47:57] [Server thread/INFO]: Generating keypair
-[02:47:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:47:57] [Server thread/INFO]: Using epoll channel type
-[02:47:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:47:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:47:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:47:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:47:57] [Server thread/INFO]: Preparing level "world"
-[02:48:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:48:12] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:48:12] [Server thread/INFO]: Time elapsed: 8500 ms
-[02:48:12] [Server thread/INFO]: Done (14.451s)! For help, type "help"
-[02:48:49] [Server thread/INFO]: Stopping the server
-[02:48:49] [Server thread/INFO]: Stopping server
-[02:48:49] [Server thread/INFO]: Saving players
-[02:48:49] [Server thread/INFO]: Saving worlds
-[02:48:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:48:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:48:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:48:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:48:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Sep2025 03:44:13.081] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Sep2025 03:44:13.086] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[21Sep2025 03:44:13.323] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Sep2025 03:44:13.392] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MINE2025/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Sep2025 03:44:13.784] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MINE2025/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Sep2025 03:44:13.786] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MINE2025/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Sep2025 03:44:13.788] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MINE2025/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Sep2025 03:44:13.790] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MINE2025/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Sep2025 03:44:14.063] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Sep2025 03:44:14.065] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[21Sep2025 03:44:16.483] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Sep2025 03:44:16.576] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Sep2025 03:44:16.875] [main/WARN] [mixin/]: Reference map 'mixins.block_factorys_bosses.refmap.json' for mixins.block_factorys_bosses.json could not be read. If this is a development environment you can ignore this message
+[21Sep2025 03:44:18.759] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Sep2025 03:44:28.028] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER
+[21Sep2025 03:44:28.029] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: realcamera, class com.xtracr.realcamera.RealCameraForge
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3373) ~[?:?]
+	at java.lang.Class.getConstructor0(Class.java:3578) ~[?:?]
+	at java.lang.Class.getConstructor(Class.java:2271) ~[?:?]
+	at net.minecraftforge.eventbus.api.EventListenerHelper.computeListenerList(EventListenerHelper.java:75) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.api.EventListenerHelper.lambda$getListenerListInternal$0(EventListenerHelper.java:56) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.LockHelper.computeIfAbsent(LockHelper.java:61) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.LockHelper.get(LockHelper.java:44) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.LockHelper.computeIfAbsent(LockHelper.java:39) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.api.EventListenerHelper.getListenerListInternal(EventListenerHelper.java:56) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.api.EventListenerHelper.getListenerList(EventListenerHelper.java:50) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addToListeners(EventBus.java:276) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addListener(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addListener(EventBus.java:244) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addListener(EventBus.java:199) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addListener(EventBus.java:193) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.addListener(EventBus.java:187) ~[eventbus-6.0.5.jar%2352!/:?]
+	at com.xtracr.realcamera.RealCameraForge.<init>(RealCameraForge.java:24) ~[realcamera-1.20.1-forge-0.7.0-beta.jar%23128!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23137!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[21Sep2025 03:44:28.285] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[21Sep2025 03:44:28.453] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[21Sep2025 03:44:28.480] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[21Sep2025 03:44:28.515] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Sep2025 03:44:28.518] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Sep2025 03:44:28.667] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[21Sep2025 03:44:28.854] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[21Sep2025 03:44:28.954] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 76ecc001-dac5-42fb-839b-87c911f2d21e
+[21Sep2025 03:44:28.955] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-21_03.44.28-fml.txt
+[21Sep2025 03:44:28.962] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ab4107c3-bbb9-431c-af40-cc7657d5b56c
+[21Sep2025 03:44:28.965] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Real Camera (realcamera) has failed to load correctly
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
